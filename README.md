@@ -17,7 +17,7 @@ Workflows is implemented as a Kubernetes CRD (Custom Resource Definition).
 
 Argo is a [Cloud Native Computing Foundation (CNCF)](https://cncf.io/) graduated project.
 
-## Use Cases
+## Use Cases.
 
 * [Machine Learning pipelines](https://argoproj.github.io/argo-workflows/use-cases/machine-learning/)
 * [Data and batch processing](https://argoproj.github.io/argo-workflows/use-cases/data-processing/)
