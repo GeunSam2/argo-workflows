@@ -129,7 +129,7 @@ please [see here](https://bit.ly/argo-wf-cmty-mtng).
 Participation in the Argo Workflows project is governed by
 the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
 
-## Community Blogs and Presentations
+## Community Blogs and Presentations 
 
 * [Awesome-Argo: A Curated List of Awesome Projects and Resources Related to Argo](https://github.com/terrytangyuan/awesome-argo)
 * [Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
